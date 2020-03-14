@@ -1,11 +1,8 @@
-# react-boilarplater
-ReactJS Boilerplates - ReactJS /NextJS + TypeScript + Jest/Cypress + Storybook + Commitizen + TailwindCSS
-
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
 
 ## Into
 
-ReactJS/NextJS + Jest/Cypress + Storybook + Commitizen + TailwindCSS and please check `package.json` for details.
+ReactJS/NextJS + TypeScript + Jest/Cypress + Storybook + Commitizen + TailwindCSS and please check `package.json` for details.
 
 ## Deploy on ZEIT Now
 
@@ -46,6 +43,10 @@ ALWAYS WRITE TESTS FOR YOU CODE. Define them inside component.test.js, placed al
 ## UI Testing
 
 If you are working on a new or existing component, then run `yarn storybook or npm run storybook` to launch Storybook. Here, you can develop your component in isolation first, in a 'visual testing' way. This means you decide on what the component should do, how it should look and which states it can be in, and then define those inside component.stories.js, placed adjacent to the component file in a folder named like the component inside src/components/
+
+## End-to-End Testing
+
+Run `yarn cypress:open` and more details [Cypress Documentation](https://docs.cypress.io/guides/overview/why-cypress.html#In-a-nutshell)
 
 ## Coding Style
 
