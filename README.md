@@ -50,8 +50,7 @@ Run `yarn cypress:open` and more details [Cypress Documentation](https://docs.cy
 
 ## Coding Style
 
-This repo follows the StandardJS Style. To ensure this, a pre-commit hook is run that uses lint-staged first reformats staged files using Prettier (mainly for line-length) and then runs standard --fix on the reformatted code. This ensures that all code that gets committed reads in as similar a way as possible.
-In addition, the usage of an editor extension like vscode-standardjs is recommended.
+This repo follows the Eslint Style. To ensure this, a pre-commit hook is run that uses lint-staged first reformats staged files using Prettier (mainly for line-length) and then runs standard --fix on the reformatted code. This ensures that all code that gets committed reads in as similar a way as possible.
 
 ## Last But not least
 
