@@ -18,10 +18,10 @@
   },
   "dependencies": {
     "isomorphic-unfetch": "^3.0.0",
-    "next": "9.2.2",
+    "next": "9.3.4",
     "next-images": "^1.3.1",
-    "react": "16.13.0",
-    "react-dom": "16.13.0"
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
   },
   "devDependencies": {
     "@babel/core": "^7.8.6",
@@ -36,7 +36,7 @@
     "@storybook/addons": "^5.3.14",
     "@storybook/react": "^5.3.14",
     "@testing-library/jest-dom": "^5.1.1",
-    "@testing-library/react": "^9.4.1",
+    "@testing-library/react": "^10.0.2",
     "@types/node": "^13.7.7",
     "@types/react": "^16.9.23",
     "@typescript-eslint/eslint-plugin": "^2.21.0",
@@ -53,14 +53,14 @@
     "eslint-plugin-jest": "^23.8.2",
     "eslint-plugin-prettier": "^3.1.2",
     "eslint-plugin-react": "^7.18.3",
-    "eslint-plugin-react-hooks": "^2.5.0",
+    "eslint-plugin-react-hooks": "^3.0.0",
     "husky": ">=4",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^25.1.0",
     "jest-next-dynamic": "^1.0.1",
     "lint-staged": ">=10",
     "postcss-preset-env": "^6.7.0",
-    "prettier": "1.19.1",
+    "prettier": "2.0.4",
     "react-test-renderer": "^16.13.0",
     "tailwindcss": "^1.2.0",
     "typescript": "^3.8.3"
